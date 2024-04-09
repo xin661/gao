@@ -2,8 +2,8 @@
   "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
   "drives": [
     {
-      "name": "弱水",
-      "server": "http://shicheng.wang:555/"
+      "name": "XIN",
+      "server": "http://192.168.2.214:5244/"
     },
     {
       "name": "NICS",
