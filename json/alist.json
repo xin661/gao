@@ -3,7 +3,7 @@
   "drives": [
     {
       "name": "XIN",
-      "server": "http://192.168.2.214:5244/"
+      "server": "http://192.168.2.236:5678/"
     },
     {
       "name": "NICS",
